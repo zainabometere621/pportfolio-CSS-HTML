@@ -1,0 +1,48 @@
+body{
+    background-color: #87a2b5;
+}
+table {
+
+    color: navy;
+    border-color: navy ;
+}
+h3 {
+    color: navy;
+    text-align: center;
+}
+#border-container {
+    border: 3px solid;
+    border-color: white;
+    padding: 20px;
+    margin: 20px;
+    background-color: navy;
+    color: white;
+    text-align:center;
+}
+.details {
+    border: 3px solid;
+    border-color: white;
+    padding: 20px;
+    margin: 20px;
+    background-color: navy;
+    color: white;
+    text-align:center;
+
+}
+.table {
+    
+    position: static;
+    padding: 20px;
+}
+img {
+    border: 3px solid;
+    position: relative;
+}
+a {
+    color:navy;
+    padding: 20px;
+    font-size: large;
+}
+h3 {
+    text-align: left;
+}
